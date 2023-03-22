@@ -3,8 +3,8 @@ import './App.css';
 export default function App() {
   return (
     <div className="App">
-      <div id="top"></div>
-      {/* <!-- Navigation--> */}
+        <div id="top"></div>
+        {/* <!-- Navigation--> */}
         <nav className="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
             <div className="container">
                 <a className="navbar-brand" href="#top">Thoba Shangase</a>
